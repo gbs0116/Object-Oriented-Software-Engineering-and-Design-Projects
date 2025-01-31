@@ -1,4 +1,4 @@
-# Object-Oriented Software Engineering and Design Projects
+# Object-Oriented Software Engineering and Design Projects - The University of Texas at Arlington, School Project
 
 This repository contains the deliverables from the **Object-Oriented Software Engineering and Design** course, developed as part of a **team project**. These projects demonstrate the application of software engineering principles, design patterns, and object-oriented programming to solve real-world problems effectively. It includes comprehensive documentation, UML modeling, and implementation of various use cases.
 
