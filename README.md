@@ -59,7 +59,3 @@ This project was completed as a collaborative effort, with all team members cont
 
 ---
 
-## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/gbs0116/Object-Oriented-Software-Engineering-and-Design-Projects.git
